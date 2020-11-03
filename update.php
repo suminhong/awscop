@@ -1,5 +1,5 @@
 <?php
-	$conn=mysqli_connect('localhost','root','9701hong','awscop');	
+	$conn=mysqli_connect('localhost','root','비밀번호','awscop');	
 
 	settype($_GET['id'], 'integer');
 	$a=$_GET['id'];
