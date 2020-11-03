@@ -5,7 +5,7 @@ AWS 플젝 - 사원월급관리 프로그램
 
 Database 이름 : awscop
 
-Table : 월급관리 - id(key, a_i), 이름, 직급, 기본급, 수당, 세율, 
+Table : 월급관리 - id(key, a_i), 이름, 직급, 기본급, 수당, 세율, 월급
 
 요구사항
 
