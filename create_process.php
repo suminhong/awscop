@@ -1,5 +1,5 @@
 <?php
-	$conn=mysqli_connect('localhost','root','9701hong','awscop');
+	$conn=mysqli_connect('localhost','root','비밀번호','awscop');
 
 	$basic=$_POST['basic'];
 	$extra=$_POST['extra'];
